@@ -11,6 +11,14 @@ on:
   workflow_dispatch:
 
 jobs:
+  env:
+    NODE_ENV: test
+    LOG_LEVEL: debug
+    -name: Print environment variables
+    run: |
+      echo "Environment: ${{ env.NODE_ENV }}"
+      echo "Log Level: ${{ env.LOG_LEVEL }}"
+
   build-and-test:
     name: Build and Test
     runs-on: ubuntu-latest
