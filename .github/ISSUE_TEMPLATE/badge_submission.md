@@ -1,7 +1,7 @@
 ---
 name: 🎖️ Badge Submission
 about: Submit your completed tasks for badge review
-title: "🎖️ Badge Submission - [Your Name]"
+title: "🎖️ Badge Submission - [Akhileswar Kamale]"
 labels: ['submission', 'pending-review']
 assignees: ['nisalgunawardhana']
 ---
@@ -25,15 +25,15 @@ Type your level (type exactly as shown):
 
 ## 👤 Your Information
 
-**GitHub Username:** @[your-username]
+**GitHub Username:** @Akhileswar6
 
-**Contact Email (for updates):** you@example.com
+**Contact Email (for updates):** akhilkamale@gmail.com
 
-**PR Link:** [Paste your pull request URL]
+**PR Link:** https://github.com/nisalgunawardhana/github-actions-learning/pull/194
 
-**Branch Name:** working-[level]-[yourname]
+**Branch Name:** working-intermediate-Akhileswar-Kamale
 
-**Submission File:** .github/submissions/[level]-[yourname].md
+**Submission File:** .github/submissions/intermediate-Akhileswar-Kamale.md
 
 ---
 
