@@ -9,6 +9,9 @@ on:
 
 jobs:
   hello:
+    name: Access Secret
+    run: echo "The Secret length: ${#{{ secrets.TEST_SECRET }}}"
+
     name: Say Hello
     runs-on: ubuntu-latest
     
